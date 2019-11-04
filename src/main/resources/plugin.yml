@@ -1,0 +1,8 @@
+main: net.blancodev.showitem.ShowItem
+version: 1.0
+name: ShowItem
+author: BlancoDev
+
+commands:
+  showitem:
+    aliases: [show]
